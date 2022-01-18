@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    justify-content: space-between;
+}
+
+img {
+    height: 400px;
+    width: 400px;
+    position: center;
+}
+
+input {
+    margin: 15px;
+    padding: 5px;
+    width: 200px;
+    height: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background-color: #F5DDF3;
+}
+
+h3 {
+    font-size: 40px;
+    font-family: 'Cute Font', cursive;
+}
+
+p {
+    font-family: 'Roboto Mono', monospace;
+}
+
+button {
+    color: black;
+    border: 5px;
+    height: 53px;
+    width: 70px;
+}
